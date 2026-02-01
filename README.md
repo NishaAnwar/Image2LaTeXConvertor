@@ -87,7 +87,9 @@ streamlit-drawable-canvas
 
 # Installation
 git clone https://github.com/NishaAnwar/Image2LaTeXConvertor.git
+
 cd image-to-latex-converter
+
 pip install -r requirements.txt
 
 # ▶️ Run the App
