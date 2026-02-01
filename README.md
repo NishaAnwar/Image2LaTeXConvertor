@@ -86,7 +86,7 @@ pix2tex (LatexOCR)
 streamlit-drawable-canvas
 
 # Installation
-git clone https://github.com/your-username/image-to-latex-converter.git
+git clone https://github.com/NishaAnwar/Image2LaTeXConvertor.git
 cd image-to-latex-converter
 pip install -r requirements.txt
 
