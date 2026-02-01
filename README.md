@@ -1,4 +1,4 @@
-# 📷 Image to LaTeX Converter (Streamlit App)
+# 📷 Image to LaTeX Converter
 
 This project is a Streamlit-based Image to LaTeX Converter that allows users to upload an image containing mathematical expressions, select a specific region, apply image preprocessing, and extract the corresponding LaTeX code using the pix2tex (LatexOCR) model.
 
